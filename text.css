@@ -1,3 +1,9 @@
+@font-face {
+    font-family: default;
+    src: url(/SegoeUI-VF/Segoe-UI-Variable-Static-Text.ttf);
+}
+
 body {
-    font-size: 12px;
+    font-size: 14px;
+    font: default;
 }
